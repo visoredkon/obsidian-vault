@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "33d8f59f051567db",
+        "id": "833d141895d16f1e",
         "type": "tabs",
         "children": [
           {
-            "id": "17603e3d76733571",
+            "id": "1318df3d3d283840",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tes.md"
+              }
             }
           },
           {
@@ -158,17 +166,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "17603e3d76733571",
+  "active": "1318df3d3d283840",
   "lastOpenFiles": [
-    "Obsidian Tips/Shortcut.md",
+    "Tes.md",
     "Obsidian Tips/Basic things.md",
+    "Obsidian Tips/Shortcut.md",
     "OpenSans-VariableFont_wdth,wght.ttf",
     "<% tp.date.now(\"YYYY-MM-DD\", -1) %>.md",
     "Obsidian Tips/Drawing 2024-06-13 17.53.49.excalidraw.md",
     "Excalidraw/Drawing 2024-06-13 17.53.15.excalidraw.md",
     "Excalidraw",
     "Untitled.canvas",
-    "Untitled.md",
     "Obsidian Tips/Basic things/Untitled.md",
     "Obsidian Tips/Basic things",
     "Obsidian Tips"
