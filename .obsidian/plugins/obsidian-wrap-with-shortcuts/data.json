@@ -1,0 +1,34 @@
+{
+  "wrapperTags": [
+    {
+      "id": "w1718282858050",
+      "name": "Curly bracket",
+      "startTag": "{",
+      "endTag": "}"
+    },
+    {
+      "id": "w1718282787892",
+      "name": "Double quote",
+      "startTag": "\"",
+      "endTag": "\""
+    },
+    {
+      "id": "w1718282822000",
+      "name": "Parentheses",
+      "startTag": "(",
+      "endTag": ")"
+    },
+    {
+      "id": "w1718282765822",
+      "name": "Single quote",
+      "startTag": "'",
+      "endTag": "'"
+    },
+    {
+      "id": "w1718282871040",
+      "name": "Square bracket",
+      "startTag": "[",
+      "endTag": "]"
+    }
+  ]
+}

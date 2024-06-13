@@ -1,0 +1,8 @@
+1. Open link in edit mode (ctrl + click)
+2. Toggle edit/preview (ctrl + e)
+3. Open quick switcher (ctrl + o)
+4. Search in all files (ctrl + shift + f)
+5. Back (ctrl + alt + left arrow)
+6. Forward (ctrl + alt + right arrow)
+7. Open note in a new window (ctrl + clink on a note)
+8. Insert link markdown (ctrl + k)
