@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f14eaff35554fc36",
+        "id": "9b86c24c5667dd4a",
         "type": "tabs",
         "children": [
           {
-            "id": "d1039cee1463cc31",
+            "id": "2a6fcfaa4dddb463",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -158,8 +158,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d1039cee1463cc31",
+  "active": "e798ac54f1b4158c",
   "lastOpenFiles": [
+    "test.md",
     "Tes.md",
     "Obsidian Tips/Basic things.md",
     "Obsidian Tips/Shortcut.md",
