@@ -6,6 +6,7 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiLinux",
       "SiObsidian",
       "FabAirbnb"
     ],
@@ -28,5 +29,7 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "debugMode": false
-  }
+  },
+  "Linux": "SiLinux",
+  "Obsidian Tips": "SiObsidian"
 }
