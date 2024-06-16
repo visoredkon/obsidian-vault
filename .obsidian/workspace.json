@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/History.md",
+                "file": "Obsidian Tips/Basic things.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/History.md",
+                "file": "Obsidian Tips/Basic things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/History.md",
+                "file": "Obsidian Tips/Basic things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/History.md"
+                "file": "Obsidian Tips/Basic things.md"
               }
             }
           },
@@ -168,7 +168,7 @@
   },
   "active": "65f68c798cc26524",
   "lastOpenFiles": [
-    "Linux/History.md",
+    "Linux/01. Sejarah.md",
     "Linux",
     "test.md",
     "Tes.md",
