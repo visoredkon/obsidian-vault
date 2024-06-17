@@ -6,6 +6,7 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "IbWebsiteWithImage",
       "SiLinux",
       "SiObsidian",
       "FabAirbnb"
@@ -31,5 +32,6 @@
     "debugMode": false
   },
   "Linux": "SiLinux",
-  "Obsidian Tips": "SiObsidian"
+  "Obsidian Tips": "SiObsidian",
+  "Web": "IbWebsiteWithImage"
 }
