@@ -1,4 +1,4 @@
-## Pararap
+## Paragraph
 ```html
 <p></p>
 ```
@@ -22,5 +22,8 @@ Kita juga dapat membuat text style:
 	```
 1. Untuk strike line `<u></u>`
 2. Untuk highlight `<mark></mark>`
+
+## Heading
+Tag untuk membuat heading adalah `<h*></h*>`  (* berarti nilai min 1, max 6)
 
 Tag: #text #text_style #paragraph #heading
