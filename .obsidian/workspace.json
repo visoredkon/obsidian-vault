@@ -11,8 +11,12 @@
             "id": "d9d7b76fb5d68ebd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Code/Web/Dasar/HTML.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Dasar/HTML.md",
+                "file": "Code/Web/Dasar/HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Dasar/HTML.md",
+                "file": "Code/Web/Dasar/HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Dasar/HTML.md"
+                "file": "Code/Web/Dasar/HTML.md"
               }
             }
           },
@@ -164,10 +168,11 @@
   },
   "active": "e798ac54f1b4158c",
   "lastOpenFiles": [
+    "Code",
     "Linux/01. Sejarah.md",
-    "Web/Dasar/HTML.md",
-    "Web/Dasar",
-    "Web",
+    "Code/Web/Dasar/HTML.md",
+    "Code/Web/Dasar",
+    "Code/Web",
     "Obsidian Tips/Basic things.md",
     "Linux",
     "test.md",
