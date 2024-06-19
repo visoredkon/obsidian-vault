@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabHtml5",
+      "FabCss3Alt",
+      "SiCss3",
       "FasCode",
-      "IbWebsiteWithImage",
-      "SiLinux",
-      "SiObsidian",
-      "FabAirbnb"
+      "IbWebsiteWithImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,5 +35,7 @@
   "Linux": "SiLinux",
   "Obsidian Tips": "SiObsidian",
   "Code": "FasCode",
-  "Code/Web": "IbWebsiteWithImage"
+  "Code/Web": "IbWebsiteWithImage",
+  "Code/Web/Dasar/CSS": "FabCss3Alt",
+  "Code/Web/Dasar/HTML": "FabHtml5"
 }
