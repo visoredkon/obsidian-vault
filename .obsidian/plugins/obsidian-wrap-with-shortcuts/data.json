@@ -29,6 +29,12 @@
       "name": "Square bracket",
       "startTag": "[",
       "endTag": "]"
+    },
+    {
+      "id": "w1718773874649",
+      "name": "Tag",
+      "startTag": "<",
+      "endTag": ">"
     }
   ]
 }
