@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Web/Dasar/HTML/Tags/List.md",
+                "file": "Code/Web/Dasar/HTML/Tags/Hyperlink.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/Web/Dasar/HTML/Tags/List.md",
+                "file": "Code/Web/Dasar/HTML/Tags/Hyperlink.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/Web/Dasar/HTML/Tags/List.md",
+                "file": "Code/Web/Dasar/HTML/Tags/Hyperlink.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/Web/Dasar/HTML/Tags/List.md"
+                "file": "Code/Web/Dasar/HTML/Tags/Hyperlink.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   "lastOpenFiles": [
     "Code/Web/Dasar/HTML/Tags/Text.md",
     "Code/Web/Dasar/HTML/Tags/List.md",
+    "Code/Web/Dasar/HTML/Tags/Hyperlink.md",
     "Code/Web/Dasar/HTML/HTML.md",
     "Obsidian Tips/Basic things.md",
     "Obsidian Tips/Shortcut.md",
