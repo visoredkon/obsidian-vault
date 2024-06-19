@@ -55,5 +55,13 @@
       ],
       "key": "B"
     }
+  ],
+  "editing-toolbar:justify": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
+    }
   ]
 }
