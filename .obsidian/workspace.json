@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "88ba18c9c4fa815e",
+        "id": "a716cd99b219837a",
         "type": "tabs",
         "children": [
           {
-            "id": "65f68c798cc26524",
+            "id": "d9d7b76fb5d68ebd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/Dasar/HTML.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -166,7 +162,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "65f68c798cc26524",
+  "active": "e798ac54f1b4158c",
   "lastOpenFiles": [
     "Linux/01. Sejarah.md",
     "Web/Dasar/HTML.md",
