@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a716cd99b219837a",
+        "id": "77f8fc425c726b78",
         "type": "tabs",
         "children": [
           {
-            "id": "d9d7b76fb5d68ebd",
+            "id": "1e90aeaa0556b92f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Web/Dasar/HTML.md",
+                "file": "Code/Web/Dasar/HTML/HTML.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/Web/Dasar/HTML.md",
+                "file": "Code/Web/Dasar/HTML/HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/Web/Dasar/HTML.md",
+                "file": "Code/Web/Dasar/HTML/HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/Web/Dasar/HTML.md"
+                "file": "Code/Web/Dasar/HTML/HTML.md"
               }
             }
           },
@@ -168,16 +168,17 @@
   },
   "active": "e798ac54f1b4158c",
   "lastOpenFiles": [
+    "Code/Web/Dasar/HTML",
+    "Obsidian Tips/Shortcut.md",
+    "Obsidian Tips/Basic things.md",
+    "Code/Web/Dasar/HTML/HTML.md",
     "Code",
     "Linux/01. Sejarah.md",
-    "Code/Web/Dasar/HTML.md",
     "Code/Web/Dasar",
     "Code/Web",
-    "Obsidian Tips/Basic things.md",
     "Linux",
     "test.md",
     "Tes.md",
-    "Obsidian Tips/Shortcut.md",
     "OpenSans-VariableFont_wdth,wght.ttf",
     "<% tp.date.now(\"YYYY-MM-DD\", -1) %>.md",
     "Obsidian Tips/Drawing 2024-06-13 17.53.49.excalidraw.md",
