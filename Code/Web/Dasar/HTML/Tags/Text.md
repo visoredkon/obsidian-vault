@@ -3,7 +3,7 @@
 <p></p>
 ```
 
-Untuk memberikan baris baru ada 2 *tag* yang dapat digunakan yaitu `<br>` `<hr>`, `<br>` akan membuat baris baru sedangkan `<hr>` akan membuat garis horizontal
+Untuk memberikan baris baru ada 2 *tag* yang dapat digunakan yaitu `<br>` `<hr>`, `<br>` akan membuat baris baru sedangkan `<hr>` akan membuat garis horizontal.
 
 Kita juga dapat membuat *text style*:
 1. Untuk tulisan tebal `<b></b>` atau `<strong></strong>` [(*semantic* untuk penekanan penting)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong?retiredLocale=hu)
@@ -24,6 +24,6 @@ Kita juga dapat membuat *text style*:
 4. Untuk *highlight* `<mark></mark>`
 
 ## Heading
-*Tag* untuk membuat heading adalah `<h*></h*>` (* berarti nilai, min 1, max 6)
+*Tag* untuk membuat heading adalah `<h*></h*>` (* berarti nilai, min 1, max 6).
 
 *Tag*: #text #text_style #paragraph #heading

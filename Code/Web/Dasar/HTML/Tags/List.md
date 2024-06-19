@@ -5,7 +5,7 @@
 </ol>
 ```
 
-`<ol>` berarti *ordered list* dan `<li>` berarti *list item*, default-nya `<ol>` menggunakan angka, jika ingin mengubahnya tinggal menambahkan *attribute* `type` pada *tag* `<ol>`, misalnya `1, A, a, I, i`
+`<ol>` berarti *ordered list* dan `<li>` berarti *list item*, default-nya `<ol>` menggunakan angka, jika ingin mengubahnya tinggal menambahkan *attribute* `type` pada *tag* `<ol>`, misalnya `1, A, a, I, i`.
 
 ## Unordered List
 ```html
@@ -14,7 +14,7 @@
 </ul>
 ```
 
-`<ul>` berarti *unordered list* dan `<li>` berarti *list item*, default-nya `<ul>` menggunakan •, jika ingin mengubahnya tinggal menambahkan *attribute* `type` pada tag `<ul>`, misalnya `disc, square dan circle`
+`<ul>` berarti *unordered list* dan `<li>` berarti *list item*, default-nya `<ul>` menggunakan •, jika ingin mengubahnya tinggal menambahkan *attribute* `type` pada tag `<ul>`, misalnya `disc, square dan circle`.
 
 ## Definition List
 ```html
@@ -24,7 +24,7 @@
 </dl>
 ```
 
-`<dl>` berarti *definition list*, `<dt>` berarti *description term* dan `<dd>` *description detail*, default-nya `<dl>` menggunakan •, jika ingin mengubahnya tinggal menambahkan *attribute* `type` pada *tag* `<dl>`, misalnya `disc, square dan circle`  
+`<dl>` berarti *definition list*, `<dt>` berarti *description term* dan `<dd>` *description detail*, default-nya `<dl>` menggunakan •, jika ingin mengubahnya tinggal menambahkan *attribute* `type` pada *tag* `<dl>`, misalnya `disc, square dan circle`.  
 Contoh output-nya:
 ```
 HTML
