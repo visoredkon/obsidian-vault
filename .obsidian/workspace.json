@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "77f8fc425c726b78",
+        "id": "8843f334cb24f03b",
         "type": "tabs",
         "children": [
           {
-            "id": "1e90aeaa0556b92f",
+            "id": "8358cd371f229b76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Web/Dasar/HTML/Tags/Hyperlink.md",
-                "mode": "preview",
+                "file": "Code/Web/Dasar/HTML/Tags/Form.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/Web/Dasar/HTML/Tags/Hyperlink.md",
+                "file": "Code/Web/Dasar/HTML/Tags/Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/Web/Dasar/HTML/Tags/Hyperlink.md",
+                "file": "Code/Web/Dasar/HTML/Tags/Form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/Web/Dasar/HTML/Tags/Hyperlink.md"
+                "file": "Code/Web/Dasar/HTML/Tags/Form.md"
               }
             }
           },
@@ -166,15 +166,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e90aeaa0556b92f",
+  "active": "8358cd371f229b76",
   "lastOpenFiles": [
+    "Code/Web/Dasar/HTML/Tags/Table.md",
+    "Code/Web/Dasar/HTML/Tags/Form.md",
+    "Code/Web/Dasar/HTML/Tags/List.md",
+    "Code/Web/Dasar/HTML/Tags/Image.md",
     "Code/Web/Dasar/HTML/Tags/Hyperlink.md",
+    "Code/Web/Dasar/HTML/Tags/Text.md",
+    "Code/Web/Dasar/HTML/HTML.md",
     "Obsidian Tips/Basic things.md",
     "Obsidian Tips/Shortcut.md",
     "Linux/01. Sejarah.md",
-    "Code/Web/Dasar/HTML/HTML.md",
-    "Code/Web/Dasar/HTML/Tags/Text.md",
-    "Code/Web/Dasar/HTML/Tags/List.md",
     "Code/Web/Dasar/HTML/Tags",
     "Code/Web/Dasar/HTML",
     "Code",

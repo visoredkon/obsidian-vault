@@ -24,7 +24,7 @@
 </dl>
 ```
 
-`<dl>` berarti *definition list*, `<dt>` berarti *description term* dan `<dd>` *description detail*, default-nya `<dl>` menggunakan •, jika ingin mengubahnya tinggal menambahkan *attribute* `type` pada *tag* `<dl>`, misalnya `disc, square dan circle`.  
+`<dl>` berarti *definition list*, `<dt>` berarti *description term* dan `<dd>` *description detail*.  
 Contoh output-nya:
 ```
 HTML
