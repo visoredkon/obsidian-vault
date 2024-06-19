@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Web/Dasar/HTML/Tags/Text.md",
+                "file": "Code/Web/Dasar/HTML/Tags/List.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/Web/Dasar/HTML/Tags/Text.md",
+                "file": "Code/Web/Dasar/HTML/Tags/List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/Web/Dasar/HTML/Tags/Text.md",
+                "file": "Code/Web/Dasar/HTML/Tags/List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/Web/Dasar/HTML/Tags/Text.md"
+                "file": "Code/Web/Dasar/HTML/Tags/List.md"
               }
             }
           },
@@ -166,10 +166,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e798ac54f1b4158c",
+  "active": "1e90aeaa0556b92f",
   "lastOpenFiles": [
-    "Code/Web/Dasar/HTML/HTML.md",
     "Code/Web/Dasar/HTML/Tags/Text.md",
+    "Code/Web/Dasar/HTML/Tags/List.md",
+    "Code/Web/Dasar/HTML/HTML.md",
     "Obsidian Tips/Basic things.md",
     "Obsidian Tips/Shortcut.md",
     "Code/Web/Dasar/HTML/Tags",

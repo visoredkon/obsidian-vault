@@ -12,7 +12,7 @@ Kita juga dapat membuat text style:
 	  Before proceeding, <strong>make sure you put on your safety goggles</strong>.
 	</p>
 	```
-1. Untuk tulisan miring `<i></i>` atau `<em></em>` [(semantic untuk penekanan kata)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em)
+2. Untuk tulisan miring `<i></i>` atau `<em></em>` [(semantic untuk penekanan kata)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em)
 	```html
 	<p>Get out of bed <em>now</em>!</p>
 	
@@ -20,10 +20,10 @@ Kita juga dapat membuat text style:
 	
 	<p>This is <em>not</em> a drill!</p>
 	```
-1. Untuk strike line `<u></u>`
-2. Untuk highlight `<mark></mark>`
+3. Untuk strike line `<u></u>`
+4. Untuk highlight `<mark></mark>`
 
 ## Heading
-Tag untuk membuat heading adalah `<h*></h*>`  (* berarti nilai min 1, max 6)
+Tag untuk membuat heading adalah `<h*></h*>` (* berarti nilai, min 1, max 6)
 
 Tag: #text #text_style #paragraph #heading
