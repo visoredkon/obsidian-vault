@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8843f334cb24f03b",
+        "id": "5e4a9a2c02f69339",
         "type": "tabs",
         "children": [
           {
-            "id": "8358cd371f229b76",
+            "id": "becc514deb13200f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -166,17 +166,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e798ac54f1b4158c",
+  "active": "becc514deb13200f",
   "lastOpenFiles": [
-    "Code/Web/Dasar/HTML/Tags/Form.md",
+    "Code/Web/Dasar/HTML/HTML.md",
     "Code/Web/Dasar/CSS/CSS.md",
+    "Code/Web/Dasar/HTML/Tags/Form.md",
     "Code/Web/Dasar/CSS",
     "Code/Web/Dasar/HTML/Tags/Table.md",
     "Code/Web/Dasar/HTML/Tags/List.md",
     "Code/Web/Dasar/HTML/Tags/Image.md",
     "Code/Web/Dasar/HTML/Tags/Hyperlink.md",
     "Code/Web/Dasar/HTML/Tags/Text.md",
-    "Code/Web/Dasar/HTML/HTML.md",
     "Obsidian Tips/Basic things.md",
     "Obsidian Tips/Shortcut.md",
     "Linux/01. Sejarah.md",
