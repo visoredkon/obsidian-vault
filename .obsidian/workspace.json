@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Web/Dasar/CSS/CSS.md",
+                "file": "Code/Web/Dasar/CSS/Selector.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/Web/Dasar/CSS/CSS.md",
+                "file": "Code/Web/Dasar/CSS/Selector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/Web/Dasar/CSS/CSS.md",
+                "file": "Code/Web/Dasar/CSS/Selector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/Web/Dasar/CSS/CSS.md"
+                "file": "Code/Web/Dasar/CSS/Selector.md"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "becc514deb13200f",
   "lastOpenFiles": [
-    "Code/Web/Dasar/HTML/HTML.md",
     "Code/Web/Dasar/CSS/CSS.md",
+    "Code/Web/Dasar/CSS/Selector.md",
+    "Code/Web/Dasar/HTML/HTML.md",
     "Code/Web/Dasar/CSS/CSS Anatomy.md",
     "Code/Web/Dasar/HTML/Tags/Form.md",
     "Code/Web/Dasar/CSS",
