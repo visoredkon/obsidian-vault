@@ -1,4 +1,4 @@
-### `@import` rule
+### `@import` Rule
 
 `color.css`
 ```css
