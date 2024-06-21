@@ -7,5 +7,38 @@ selector {
 }
 ```
 
+### Penempatan CSS
+**Embed:**
+```html
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<style>
+			<!-- CSS goes here -->
+		</style>
+	</head>
+</html>
+```
+
+**Inline:**
+```html
+<!DOCTYPE html>
+<html lang="en">
+	<body>
+		<div style:"CSS goes here"></div>
+	</body>
+</html>
+```
+
+**External:**
+```html
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<link rel="stylesheet" href="CSS path goes here" />
+	</head>
+</html>
+```
+
 Referensi:
 1. [WPU: CSS Dasar](https://www.youtube.com/watch?v=CleFk3BZB3g&list=PLFIM0718LjIUBrbm6Gdh6k7ZUvPIAZm7p&pp=iAQB)

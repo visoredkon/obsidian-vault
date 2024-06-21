@@ -1,4 +1,4 @@
-Referensi lainnya: https://css-tricks.com/almanac/
+Referensi lainnya: <https://css-tricks.com/almanac/>
 
 | **Selector**        | **Example**           | **Example description**                                                                                          |
 | ------------------- | --------------------- | ---------------------------------------------------------------------------------------------------------------- |
