@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fa3f9908f95137ac",
+        "id": "1343d9b019e9901f",
         "type": "tabs",
         "children": [
           {
-            "id": "46bdb8df82790361",
+            "id": "38b26b64f2151139",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -166,7 +166,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "46bdb8df82790361",
+  "active": "38b26b64f2151139",
   "lastOpenFiles": [
     "Code/Web/Dasar/CSS/Properties/Font Styling.md",
     "Code/Web/Dasar/CSS/Properties/Text Styling.md",
