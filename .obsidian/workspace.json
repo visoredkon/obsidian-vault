@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Properties/Background.md",
+                "file": "Code/Web/Dasar/CSS/Selectors/Selector.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Properties/Background.md",
+                "file": "Code/Web/Dasar/CSS/Selectors/Selector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Properties/Background.md",
+                "file": "Code/Web/Dasar/CSS/Selectors/Selector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Properties/Background.md"
+                "file": "Code/Web/Dasar/CSS/Selectors/Selector.md"
               }
             }
           },
@@ -168,7 +168,10 @@
   },
   "active": "38b26b64f2151139",
   "lastOpenFiles": [
+    "Code/Web/Dasar/CSS/Selectors/Elements.md",
+    "Code/Web/Dasar/CSS/Selectors/Selector.md",
     "Code/Web/Dasar/CSS/Properties/Background.md",
+    "Code/Web/Dasar/CSS/Selectors",
     "Code/Web/Dasar/CSS/Properties/Text Styling.md",
     "Code/Web/Dasar/CSS/Properties/Font Styling.md",
     "Code/Web/Dasar/CSS/CSS.md",
@@ -178,7 +181,6 @@
     "English/Dictionary.md",
     "English/Shorthand.md",
     "English",
-    "Code/Web/Dasar/CSS/Selector.md",
     "Code/Web/Dasar/HTML/HTML.md",
     "Code/Web/Dasar/CSS/CSS Anatomy.md",
     "Code/Web/Dasar/HTML/Tags/Form.md",
@@ -199,11 +201,9 @@
     "Linux",
     "test.md",
     "Tes.md",
-    "OpenSans-VariableFont_wdth,wght.ttf",
     "<% tp.date.now(\"YYYY-MM-DD\", -1) %>.md",
     "Obsidian Tips/Drawing 2024-06-13 17.53.49.excalidraw.md",
     "Excalidraw/Drawing 2024-06-13 17.53.15.excalidraw.md",
-    "Untitled.canvas",
-    "Obsidian Tips/Basic things/Untitled.md"
+    "Untitled.canvas"
   ]
 }
