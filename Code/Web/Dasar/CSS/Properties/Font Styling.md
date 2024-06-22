@@ -1,7 +1,9 @@
-`font-family`: mengatur jenis font (typeface)
+`font-style`: mengatur cetak miring  
+`font-variant`: mengatur *small caps* (pascal case tapi semuanya kapital, bedanya huruf lain selain huruf pertama dalam sebuah kata menjadi lebih kecil)  
+`font-weight`: mengatur ketebalan (lighter, normal, 100-900, bold, bolder)  
+`font-size`: mengatur **size**  
+`line-height`: mengatur *line spacing*  
+`font-family`: mengatur jenis font (typeface)  
 	value-nya, nama typeface family (bisa lebih dari 1) dan diakhiri generic/varieties family 
-`font-size`: mengatur **size**
-`font-weight`: mengatur ketebalan (lighter, normal, 100-900, bold, bolder)
-`font-variant`: mengatur *small caps* (pascal case tapi semuanya kapital, bedanya huruf lain selain huruf pertama dalam sebuah kata menjadi lebih kecil)
-`font-style`: mengatur cetak miring
-`line-height`: mengatur *line spacing*
+
+Kita bisa melakukan shorthand dengan hanya menggunakan 1 *property* `font` dengan urutan *value* berdasarkan list diatas (size dan height ditulis dengan formal berikut: n/n). Namun ada *value* yang *optional* dan ada yang wajib, yaitu `size` dan `family`.

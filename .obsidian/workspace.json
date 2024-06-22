@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Properties/Font Styling.md",
+                "file": "Code/Web/Dasar/CSS/Properties/Text Styling.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Properties/Font Styling.md",
+                "file": "Code/Web/Dasar/CSS/Properties/Text Styling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Properties/Font Styling.md",
+                "file": "Code/Web/Dasar/CSS/Properties/Text Styling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Properties/Font Styling.md"
+                "file": "Code/Web/Dasar/CSS/Properties/Text Styling.md"
               }
             }
           },
@@ -166,10 +166,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e798ac54f1b4158c",
+  "active": "46bdb8df82790361",
   "lastOpenFiles": [
-    "Code/Web/Dasar/CSS/Rules.md",
     "Code/Web/Dasar/CSS/Properties/Font Styling.md",
+    "Code/Web/Dasar/CSS/Properties/Text Styling.md",
+    "Code/Web/Dasar/CSS/Rules.md",
     "Code/Web/Dasar/CSS/Properties",
     "Code/Web/Dasar/CSS/Tag.md",
     "Code/Web/Dasar/CSS/CSS.md",
