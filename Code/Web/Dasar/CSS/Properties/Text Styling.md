@@ -1,7 +1,7 @@
 `color`: mengatur warna  
 `tex-align`: format rata kiri/kanan/tengah atau rata kiri-kanan  
 `text-indent`: indentasi  
-`text-decoration`: dekorasi seperti *underline*, *overline*, *line-through*
+`text-decoration`: dekorasi seperti *none*, *underline*, *overline*, *line-through*. Kita dapat juga dapat menggunakan *underline overline*  
 `text-transform`: mengatur *uppercase*, *lowercase*, *capitalize*  
 `letter-spacing`: mengatur *letter spacing*  
 `word-spacing`: mengatur *word spacing*

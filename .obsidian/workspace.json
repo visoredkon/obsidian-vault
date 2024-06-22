@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Properties/Text Styling.md",
+                "file": "Code/Web/Dasar/CSS/Properties/Background.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Properties/Text Styling.md",
+                "file": "Code/Web/Dasar/CSS/Properties/Background.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Properties/Text Styling.md",
+                "file": "Code/Web/Dasar/CSS/Properties/Background.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Properties/Text Styling.md"
+                "file": "Code/Web/Dasar/CSS/Properties/Background.md"
               }
             }
           },
@@ -168,12 +168,13 @@
   },
   "active": "38b26b64f2151139",
   "lastOpenFiles": [
-    "Code/Web/Dasar/CSS/Properties/Font Styling.md",
     "Code/Web/Dasar/CSS/Properties/Text Styling.md",
+    "Code/Web/Dasar/CSS/Properties/Font Styling.md",
+    "Code/Web/Dasar/CSS/Properties/Background.md",
+    "Code/Web/Dasar/CSS/CSS.md",
     "Code/Web/Dasar/CSS/Rules.md",
     "Code/Web/Dasar/CSS/Properties",
     "Code/Web/Dasar/CSS/Tag.md",
-    "Code/Web/Dasar/CSS/CSS.md",
     "English/Dictionary.md",
     "English/Shorthand.md",
     "English",
