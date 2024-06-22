@@ -166,8 +166,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "78c0ef06161b098c",
+  "active": "e798ac54f1b4158c",
   "lastOpenFiles": [
+    "Code/Web/Dasar/CSS/Layouting",
     "Code/Web/Dasar/CSS/Selectors/Selector.md",
     "Code/Web/Dasar/HTML/Tags/List.md",
     "Code/Web/Dasar/CSS/Selectors/Specificity.md",
@@ -203,7 +204,6 @@
     "Code/Web",
     "Linux",
     "test.md",
-    "Tes.md",
     "Untitled.canvas"
   ]
 }

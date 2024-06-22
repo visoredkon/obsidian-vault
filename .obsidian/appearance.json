@@ -1,5 +1,9 @@
 {
   "cssTheme": "Catppuccin",
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
-  "textFontFamily": "Nunito,Open Sans"
+  "textFontFamily": "Nunito,Open Sans",
+  "enabledCssSnippets": [
+    "style",
+    "Hide a line before table"
+  ]
 }
