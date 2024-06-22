@@ -1,0 +1,1 @@
+Setiap *selector* yang kita buat memiliki berat yang berbeda, berat tersebut akan menentukan seberapa spesifik sebuah elemen dapat dipilih oleh *selector* 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1343d9b019e9901f",
+        "id": "b15040930047dac4",
         "type": "tabs",
         "children": [
           {
-            "id": "38b26b64f2151139",
+            "id": "78c0ef06161b098c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Selectors/Selector.md",
+                "file": "Code/Web/Dasar/CSS/Selectors/Specificity.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Selectors/Selector.md",
+                "file": "Code/Web/Dasar/CSS/Selectors/Specificity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Selectors/Selector.md",
+                "file": "Code/Web/Dasar/CSS/Selectors/Specificity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Selectors/Selector.md"
+                "file": "Code/Web/Dasar/CSS/Selectors/Specificity.md"
               }
             }
           },
@@ -166,15 +166,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "38b26b64f2151139",
+  "active": "78c0ef06161b098c",
   "lastOpenFiles": [
-    "Code/Web/Dasar/CSS/Selectors/Elements.md",
+    "Code/Web/Dasar/CSS/Selectors/Inheritance.md",
+    "Code/Web/Dasar/CSS/Selectors/Specificity.md",
     "Code/Web/Dasar/CSS/Selectors/Selector.md",
+    "Code/Web/Dasar/CSS/Selectors/Pseudo Class.md",
+    "Code/Web/Dasar/CSS/CSS.md",
+    "Obsidian Tips/Basic things.md",
+    "Code/Web/Dasar/CSS/Selectors/Elements.md",
     "Code/Web/Dasar/CSS/Properties/Background.md",
     "Code/Web/Dasar/CSS/Selectors",
     "Code/Web/Dasar/CSS/Properties/Text Styling.md",
     "Code/Web/Dasar/CSS/Properties/Font Styling.md",
-    "Code/Web/Dasar/CSS/CSS.md",
     "Code/Web/Dasar/CSS/Rules.md",
     "Code/Web/Dasar/CSS/Properties",
     "Code/Web/Dasar/CSS/Tag.md",
@@ -190,7 +194,6 @@
     "Code/Web/Dasar/HTML/Tags/Image.md",
     "Code/Web/Dasar/HTML/Tags/Hyperlink.md",
     "Code/Web/Dasar/HTML/Tags/Text.md",
-    "Obsidian Tips/Basic things.md",
     "Obsidian Tips/Shortcut.md",
     "Linux/01. Sejarah.md",
     "Code/Web/Dasar/HTML/Tags",
@@ -201,9 +204,6 @@
     "Linux",
     "test.md",
     "Tes.md",
-    "<% tp.date.now(\"YYYY-MM-DD\", -1) %>.md",
-    "Obsidian Tips/Drawing 2024-06-13 17.53.49.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-13 17.53.15.excalidraw.md",
     "Untitled.canvas"
   ]
 }
