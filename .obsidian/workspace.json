@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Layouting/Display.md",
+                "file": "Code/Web/Dasar/CSS/Selectors/Selector.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Layouting/Display.md",
+                "file": "Code/Web/Dasar/CSS/Selectors/Selector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Layouting/Display.md",
+                "file": "Code/Web/Dasar/CSS/Selectors/Selector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Layouting/Display.md"
+                "file": "Code/Web/Dasar/CSS/Selectors/Selector.md"
               }
             }
           },
@@ -168,9 +168,9 @@
   },
   "active": "78c0ef06161b098c",
   "lastOpenFiles": [
+    "Code/Web/Dasar/CSS/Layouting/Display.md",
     "Code/Web/Dasar/CSS/Layouting/Media/span-div.png",
     "Obsidian Tips/Basic things.md",
-    "Code/Web/Dasar/CSS/Layouting/Display.md",
     "Code/Web/Dasar/CSS/Layouting/Media",
     "Media",
     "Code/Web/Dasar/CSS/Selectors/Specificity.md",
