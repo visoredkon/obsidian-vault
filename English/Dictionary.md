@@ -13,11 +13,15 @@ Bolted: melesat, melarikan diri, meloncat
 Cherish: menghargai , sangat menyayangi, sangat mengharapkan  
 	Example: "All you can do is to **cherish** the family you have now."  
 Cruel: kejam, bengis, ganas  
+Deity: dewa, tuhan, ketuhanan  
+	Example: "Roxy would have been elevated from god to absolute **deity**."  
 Dependable: dapat diandalkan  
 Depict: digambarkan (show or represent by a drawing, painting, or other art form.)  
 Determination: tekat, penentuan  
 Distinguish: membedakan  
 Doubt: ragu, sangsi  
+Elevated: ditinggikan, yang ditinggikan, tinggi  
+	Example: "Roxy would have been **elevated** from god to absolute deity."  
 Excuse: dalih, alasan, pernyataan maaf  
 	Example: "Then would you hear my **excuse**?"  
 Fairly: adil / mendasar  
@@ -40,10 +44,14 @@ Obvious: jelas
 Occur: terjadi / berlangsung / terdapat / terpikir / datang / menjadi  
 Overflowing: Melimpah, meluap  
 	Example: "You were **overflowing** with talent."  
+Rather: mending, agak, cukup, sebaliknya  
+	Example: "I'd be a rather scumbag than having regret"  
 Recalled: teringat  
 	Example: "But I recalled that time when we were in Buena Village."  
 Scumbag: bajingan  
+Settled: mapan, tenang, lunas, damai  
 Signifies: menandakan  
+Spurt: dorongan  
 Stout: bayak (terlampau besar atau gemuk, tetapi kurang tinggi)  
 	Example: "Stout believer. (Orang beriman yang teguh/kuat/kokoh)"  
 Strangely: anehnya, dengan cara aneh  

@@ -6,7 +6,7 @@ Look after: menjaga
 	Example: "I will **look after** her."  
 Put back together again: menyatukan kembali  
 	Example: "**Put** you **back together again**"  
-Screw it: yaudah lah
+Screw it: yaudah lah  
 Turned my back: meninggalkan  
 	Example: "I **turned my back** on my family."  
 Is that so: begitukah, apakah begitu (retoris)

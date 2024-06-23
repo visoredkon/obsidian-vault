@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Sentenced.md",
+                "file": "Code/Web/Dasar/CSS/Layouting/Display.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Sentenced.md",
+                "file": "Code/Web/Dasar/CSS/Layouting/Display.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Sentenced.md",
+                "file": "Code/Web/Dasar/CSS/Layouting/Display.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Sentenced.md"
+                "file": "Code/Web/Dasar/CSS/Layouting/Display.md"
               }
             }
           },
@@ -168,11 +168,14 @@
   },
   "active": "78c0ef06161b098c",
   "lastOpenFiles": [
+    "Code/Web/Dasar/CSS/Layouting/Media/span-div.png",
+    "Code/Web/Dasar/CSS/Layouting/Media/display-mdn.png",
+    "Code/Web/Dasar/CSS/Layouting/Media/display-almanac.png",
+    "Code/Web/Dasar/CSS/Layouting/Display.md",
+    "Code/Web/Dasar/CSS/Layouting/Media/Pasted image 20240624013936.png",
     "English/Dictionary.md",
     "English/Sentenced.md",
     "Code/Web/Dasar/CSS/Selectors/Selector.md",
-    "Code/Web/Dasar/CSS/Layouting/Display.md",
-    "Code/Web/Dasar/CSS/Layouting/Media/span-div.png",
     "Obsidian Tips/Basic things.md",
     "Code/Web/Dasar/CSS/Layouting/Media",
     "Media",
@@ -201,7 +204,6 @@
     "Code/Web/Dasar/HTML/Tags/Hyperlink.md",
     "Code/Web/Dasar/HTML/Tags/Text.md",
     "Obsidian Tips/Shortcut.md",
-    "Linux/01. Sejarah.md",
     "Code/Web/Dasar/HTML/Tags",
     "Code/Web/Dasar/HTML",
     "Code",
