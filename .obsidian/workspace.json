@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Selectors/Selector.md",
+                "file": "English/Dictionary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Selectors/Selector.md",
+                "file": "English/Dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Selectors/Selector.md",
+                "file": "English/Dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Selectors/Selector.md"
+                "file": "English/Dictionary.md"
               }
             }
           },
@@ -168,6 +168,9 @@
   },
   "active": "78c0ef06161b098c",
   "lastOpenFiles": [
+    "English/Sentenced.md",
+    "English/Dictionary.md",
+    "Code/Web/Dasar/CSS/Selectors/Selector.md",
     "Code/Web/Dasar/CSS/Layouting/Display.md",
     "Code/Web/Dasar/CSS/Layouting/Media/span-div.png",
     "Obsidian Tips/Basic things.md",
@@ -175,7 +178,6 @@
     "Media",
     "Code/Web/Dasar/CSS/Selectors/Specificity.md",
     "Code/Web/Dasar/CSS/Layouting",
-    "Code/Web/Dasar/CSS/Selectors/Selector.md",
     "Code/Web/Dasar/HTML/Tags/List.md",
     "Code/Web/Dasar/CSS/Selectors/Inheritance.md",
     "Code/Web/Dasar/CSS/Selectors/Pseudo Class.md",
@@ -188,7 +190,6 @@
     "Code/Web/Dasar/CSS/Rules.md",
     "Code/Web/Dasar/CSS/Properties",
     "Code/Web/Dasar/CSS/Tag.md",
-    "English/Dictionary.md",
     "English/Shorthand.md",
     "English",
     "Code/Web/Dasar/HTML/HTML.md",
