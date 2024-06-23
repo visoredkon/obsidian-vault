@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b15040930047dac4",
+        "id": "3409fc4e19b69d0b",
         "type": "tabs",
         "children": [
           {
-            "id": "78c0ef06161b098c",
+            "id": "cbd24b0733ccc039",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Layouting/Display.md",
+                "file": "Code/Web/Dasar/CSS/Layouting/Overflow.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Layouting/Display.md",
+                "file": "Code/Web/Dasar/CSS/Layouting/Overflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Layouting/Display.md",
+                "file": "Code/Web/Dasar/CSS/Layouting/Overflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Layouting/Display.md"
+                "file": "Code/Web/Dasar/CSS/Layouting/Overflow.md"
               }
             }
           },
@@ -166,14 +166,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "78c0ef06161b098c",
+  "active": "cbd24b0733ccc039",
   "lastOpenFiles": [
+    "Code/Web/Dasar/CSS/Layouting/Dimension.md",
+    "Code/Web/Dasar/CSS/Layouting/Display.md",
+    "Code/Web/Dasar/CSS/Layouting/Overflow.md",
+    "dimensi.md",
+    "English/Dictionary.md",
+    "Code/Web/Dasar/CSS/Layouting/Dimension and Overflow",
     "Code/Web/Dasar/CSS/Layouting/Media/span-div.png",
     "Code/Web/Dasar/CSS/Layouting/Media/display-mdn.png",
     "Code/Web/Dasar/CSS/Layouting/Media/display-almanac.png",
-    "Code/Web/Dasar/CSS/Layouting/Display.md",
     "Code/Web/Dasar/CSS/Layouting/Media/Pasted image 20240624013936.png",
-    "English/Dictionary.md",
     "English/Sentenced.md",
     "Code/Web/Dasar/CSS/Selectors/Selector.md",
     "Obsidian Tips/Basic things.md",
@@ -202,11 +206,8 @@
     "Code/Web/Dasar/HTML/Tags/Table.md",
     "Code/Web/Dasar/HTML/Tags/Image.md",
     "Code/Web/Dasar/HTML/Tags/Hyperlink.md",
-    "Code/Web/Dasar/HTML/Tags/Text.md",
-    "Obsidian Tips/Shortcut.md",
     "Code/Web/Dasar/HTML/Tags",
     "Code/Web/Dasar/HTML",
-    "Code",
     "Untitled.canvas"
   ]
 }
