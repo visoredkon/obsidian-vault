@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Selectors/Specificity.md",
+                "file": "Code/Web/Dasar/CSS/Layouting/Display.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Selectors/Specificity.md",
+                "file": "Code/Web/Dasar/CSS/Layouting/Display.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Selectors/Specificity.md",
+                "file": "Code/Web/Dasar/CSS/Layouting/Display.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Selectors/Specificity.md"
+                "file": "Code/Web/Dasar/CSS/Layouting/Display.md"
               }
             }
           },
@@ -166,16 +166,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e798ac54f1b4158c",
+  "active": "78c0ef06161b098c",
   "lastOpenFiles": [
+    "Code/Web/Dasar/CSS/Layouting/Media/span-div.png",
+    "Obsidian Tips/Basic things.md",
+    "Code/Web/Dasar/CSS/Layouting/Display.md",
+    "Code/Web/Dasar/CSS/Layouting/Media",
+    "Media",
+    "Code/Web/Dasar/CSS/Selectors/Specificity.md",
     "Code/Web/Dasar/CSS/Layouting",
     "Code/Web/Dasar/CSS/Selectors/Selector.md",
     "Code/Web/Dasar/HTML/Tags/List.md",
-    "Code/Web/Dasar/CSS/Selectors/Specificity.md",
     "Code/Web/Dasar/CSS/Selectors/Inheritance.md",
     "Code/Web/Dasar/CSS/Selectors/Pseudo Class.md",
     "Code/Web/Dasar/CSS/CSS.md",
-    "Obsidian Tips/Basic things.md",
     "Code/Web/Dasar/CSS/Selectors/Elements.md",
     "Code/Web/Dasar/CSS/Properties/Background.md",
     "Code/Web/Dasar/CSS/Selectors",
@@ -200,10 +204,6 @@
     "Code/Web/Dasar/HTML/Tags",
     "Code/Web/Dasar/HTML",
     "Code",
-    "Code/Web/Dasar",
-    "Code/Web",
-    "Linux",
-    "test.md",
     "Untitled.canvas"
   ]
 }
