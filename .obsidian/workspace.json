@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Sentenced.md",
+                "file": "English/Dictionary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Sentenced.md",
+                "file": "English/Dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Sentenced.md",
+                "file": "English/Dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Sentenced.md"
+                "file": "English/Dictionary.md"
               }
             }
           },
@@ -166,20 +166,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e798ac54f1b4158c",
+  "active": "cbd24b0733ccc039",
   "lastOpenFiles": [
+    "English/Sentenced.md",
+    "English/Dictionary.md",
     "Code/Web/Dasar/CSS/Properties/Font Styling.md",
     "Code/Web/Dasar/CSS/Layouting/Overflow.md",
     "Code/Web/Dasar/CSS/Layouting/Display.md",
     "Code/Web/Dasar/CSS/Layouting/Dimension.md",
     "dimensi.md",
-    "English/Dictionary.md",
     "Code/Web/Dasar/CSS/Layouting/Dimension and Overflow",
     "Code/Web/Dasar/CSS/Layouting/Media/span-div.png",
     "Code/Web/Dasar/CSS/Layouting/Media/display-mdn.png",
     "Code/Web/Dasar/CSS/Layouting/Media/display-almanac.png",
     "Code/Web/Dasar/CSS/Layouting/Media/Pasted image 20240624013936.png",
-    "English/Sentenced.md",
     "Code/Web/Dasar/CSS/Selectors/Selector.md",
     "Obsidian Tips/Basic things.md",
     "Code/Web/Dasar/CSS/Layouting/Media",

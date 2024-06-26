@@ -4,6 +4,8 @@ Advantage: keuntungan
 	Example: "I was the one who took **advantage** when you were at your lowest."  
 Affection: kasih sayang  
 	Example: "But for the partner, it should feel good to receive that much **affection**."  
+Approach: mendekati
+Aristocracy: aristokrasi (bangsawan)
 Awareness: kesadaran  
 	Example: "I did it with full **awareness**"  
 Bashful: malu, canggung, segan  
@@ -19,6 +21,7 @@ Dependable: dapat diandalkan
 Depict: digambarkan (show or represent by a drawing, painting, or other art form.)  
 Determination: tekat, penentuan  
 Distinguish: membedakan  
+Dorm: asrama
 Doubt: ragu, sangsi  
 Elevated: ditinggikan, yang ditinggikan, tinggi  
 	Example: "Roxy would have been **elevated** from god to absolute deity."  
@@ -34,16 +37,20 @@ Funds: dana
 Geez: ya ampun  
 Glad: senang, gembira  
 Hesitation: keraguan, bimbang  
+Infirmary: rumah sakit (di sekolah atau instansi)  
 Intended: berniat, bakal, akan, diharapkan  
 	Example: "Elinalise and Geese **intended** to leave you alone."  
 Involved: terlibat  
 Lack: kurang, tidak cukup  
 Lessen: mengurangi  
 	Example: "I'm sure we can **lessen** the burden by sharing it with someone else."  
+Lit: menyala
+Nobility: kaum bangsawan
 Obvious: jelas  
 Occur: terjadi / berlangsung / terdapat / terpikir / datang / menjadi  
 Overflowing: Melimpah, meluap  
 	Example: "You were **overflowing** with talent."  
+Pastry: kue-kue
 Rather: mending, agak, cukup, sebaliknya  
 	Example: "I'd be a rather scumbag than having regret"  
 Recalled: teringat  
@@ -54,6 +61,8 @@ Signifies: menandakan
 Spurt: dorongan  
 Stout: bayak (terlampau besar atau gemuk, tetapi kurang tinggi)  
 	Example: "Stout believer. (Orang beriman yang teguh/kuat/kokoh)"  
+Stump: tunggul, kesandung
+Stumped: bingung
 Strangely: anehnya, dengan cara aneh  
 Sufficient: memadai / cukup / sedang  
 Symptom: gejala (*symptom, phenomenon, indication, tendency, tendence*), tanda (*sign, mark, signal, alert, token, symptom*), gelagat (*sign, symptom, indication, attitude, clue, habit*)  
@@ -70,6 +79,7 @@ Tripped: tersandung
 Vague: tidak jelas / samar  
 Wavering: bimbang, ragu  
 	Example: "That's why I'm **wavering** right now since I love both Sylphie and Roxy."  
+Willingness: kesediaan, kerelaan
 Wishy-washy: plin-plan  
 Yearns: mendambakan, merindukan  
 Yield: menghasilkan
