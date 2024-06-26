@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Layouting/Overflow.md",
+                "file": "Code/Web/Dasar/CSS/Properties/Font Styling.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Layouting/Overflow.md",
+                "file": "Code/Web/Dasar/CSS/Properties/Font Styling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Layouting/Overflow.md",
+                "file": "Code/Web/Dasar/CSS/Properties/Font Styling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Layouting/Overflow.md"
+                "file": "Code/Web/Dasar/CSS/Properties/Font Styling.md"
               }
             }
           },
@@ -168,9 +168,9 @@
   },
   "active": "cbd24b0733ccc039",
   "lastOpenFiles": [
+    "Code/Web/Dasar/CSS/Layouting/Overflow.md",
     "Code/Web/Dasar/CSS/Layouting/Display.md",
     "Code/Web/Dasar/CSS/Layouting/Dimension.md",
-    "Code/Web/Dasar/CSS/Layouting/Overflow.md",
     "dimensi.md",
     "English/Dictionary.md",
     "Code/Web/Dasar/CSS/Layouting/Dimension and Overflow",
