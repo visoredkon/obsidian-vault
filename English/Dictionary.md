@@ -92,3 +92,5 @@ Willingness: kesediaan, kerelaan
 Wishy-washy: plin-plan  
 Yearns: mendambakan, merindukan  
 Yield: menghasilkan
+
+puppet
