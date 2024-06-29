@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Layouting/Display.md",
+                "file": "Code/Fundamentals/Memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Layouting/Display.md",
+                "file": "Code/Fundamentals/Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Layouting/Display.md",
+                "file": "Code/Fundamentals/Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/Web/Dasar/CSS/Layouting/Display.md"
+                "file": "Code/Fundamentals/Memory.md"
               }
             }
           },
@@ -168,12 +168,15 @@
   },
   "active": "cbd24b0733ccc039",
   "lastOpenFiles": [
+    "Code/Web/Dasar/CSS/Layouting/Display.md",
+    "Code/Fundamentals/Memory.md",
+    "Code/Fundamentals",
+    "Code/Untitled.md",
     "Code/Web/Dasar/CSS/Layouting/Dimension.md",
     "English/Dictionary.md",
     "English/Sentenced.md",
     "Code/Web/Dasar/CSS/Properties/Font Styling.md",
     "Code/Web/Dasar/CSS/Layouting/Overflow.md",
-    "Code/Web/Dasar/CSS/Layouting/Display.md",
     "dimensi.md",
     "Code/Web/Dasar/CSS/Layouting/Dimension and Overflow",
     "Code/Web/Dasar/CSS/Layouting/Media/span-div.png",
@@ -204,10 +207,7 @@
     "Code/Web/Dasar/HTML/Tags/Form.md",
     "Code/Web/Dasar/CSS",
     "Code/Web/Dasar/HTML/Tags/Table.md",
-    "Code/Web/Dasar/HTML/Tags/Image.md",
-    "Code/Web/Dasar/HTML/Tags/Hyperlink.md",
     "Code/Web/Dasar/HTML/Tags",
-    "Code/Web/Dasar/HTML",
     "Untitled.canvas"
   ]
 }
