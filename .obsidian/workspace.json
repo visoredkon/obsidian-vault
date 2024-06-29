@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Dictionary.md",
+                "file": "Code/Web/Dasar/CSS/Layouting/Display.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Dictionary.md",
+                "file": "Code/Web/Dasar/CSS/Layouting/Display.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Dictionary.md",
+                "file": "Code/Web/Dasar/CSS/Layouting/Display.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Dictionary.md"
+                "file": "Code/Web/Dasar/CSS/Layouting/Display.md"
               }
             }
           },
@@ -168,12 +168,12 @@
   },
   "active": "cbd24b0733ccc039",
   "lastOpenFiles": [
-    "English/Sentenced.md",
+    "Code/Web/Dasar/CSS/Layouting/Dimension.md",
     "English/Dictionary.md",
+    "English/Sentenced.md",
     "Code/Web/Dasar/CSS/Properties/Font Styling.md",
     "Code/Web/Dasar/CSS/Layouting/Overflow.md",
     "Code/Web/Dasar/CSS/Layouting/Display.md",
-    "Code/Web/Dasar/CSS/Layouting/Dimension.md",
     "dimensi.md",
     "Code/Web/Dasar/CSS/Layouting/Dimension and Overflow",
     "Code/Web/Dasar/CSS/Layouting/Media/span-div.png",

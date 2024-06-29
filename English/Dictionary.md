@@ -9,7 +9,7 @@ Aristocracy: aristokrasi (bangsawan)
 Awareness: kesadaran  
 	Example: "I did it with full **awareness**"  
 Bashful: malu, canggung, segan  
-Brow: alis
+Brow: alis  
 Burden: beban  
 	Example: "I'm sure we can lessen the **burden** by sharing it with someone else."  
 Bolted: melesat, melarikan diri, meloncat  
@@ -22,7 +22,7 @@ Dependable: dapat diandalkan
 Depict: digambarkan (show or represent by a drawing, painting, or other art form.)  
 Determination: tekat, penentuan  
 Distinguish: membedakan  
-Divine: bersifat ketuhanan, hebat, istimewa, indah, baik [adj], pendeta [noun], meramalkan, mendapat firasat, menilik [verb] 
+Divine: bersifat ketuhanan, hebat, istimewa, indah, baik [adj], pendeta [noun], meramalkan, mendapat firasat, menilik [verb]  
 Dorm: asrama  
 Doubt: ragu, sangsi  
 Elevated: ditinggikan, yang ditinggikan, tinggi  
@@ -45,7 +45,7 @@ Intended: berniat, bakal, akan, diharapkan
 	Example: "Elinalise and Geese **intended** to leave you alone."  
 Involved: terlibat  
 Lack: kurang, tidak cukup  
-Lackey: antek, kacung, pesuruh, bujang [noun], membujang, berlaku seperti + noun (e.g. berlaku seperti kacung) [verb]
+Lackey: antek, kacung, pesuruh, bujang [noun], membujang, berlaku seperti + noun (e.g. berlaku seperti kacung) [verb]  
 Lessen: mengurangi  
 	Example: "I'm sure we can **lessen** the burden by sharing it with someone else."  
 Lit: menyala  
@@ -55,7 +55,7 @@ Occur: terjadi / berlangsung / terdapat / terpikir / datang / menjadi
 Occurrences: kejadian  
 Overflowing: Melimpah, meluap  
 	Example: "You were **overflowing** with talent."  
-Pathetic: menyedihkan [adj]
+Pathetic: menyedihkan [adj]  
 Pastry: kue-kue  
 Rambling: bertele-tele  
 Rather: mending, agak, cukup, sebaliknya  
@@ -84,7 +84,7 @@ Through: melalui / sampai / karena
 Towards: terhadap / untuk / kepada  
 Tug: tarik, sentak, renggut  
 Tripped: tersandung  
-Visionary: visioner, yang dalam angan-angan saja [adj], pengkhayal kosong [noun]
+Visionary: visioner, yang dalam angan-angan saja [adj], pengkhayal kosong [noun]  
 Vague: tidak jelas / samar  
 Wavering: bimbang, ragu  
 	Example: "That's why I'm **wavering** right now since I love both Sylphie and Roxy."  
